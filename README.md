@@ -45,7 +45,7 @@ Steps on how sample was created from scratch
 
 - ```$ npm install deployr -save```
 
-  This will pull in `deployr` as a dependency and the `-save` with update
+  This will pull in `deployr` as a dependency and the `-save` will update
   your `package.json` indicating that `deployr` is a runtime dependency on the
   `hello-world` project.
 
