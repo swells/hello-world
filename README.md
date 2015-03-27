@@ -1,4 +1,4 @@
-## Hello World
+# Hello World
 
 Simple *Hello World* to create a node.js project that uses the `deployr`
 JavaScript Client Library and executes the repository-managed R script 
