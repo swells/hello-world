@@ -27,8 +27,8 @@ Run
 - `$node index.js`
 
 
-Steps on how sample was create from scratch
-===========================================
+Steps on how sample was created from scratch
+============================================
 
 
 - [download and install](http://nodejs.org/download/) Node.js
