@@ -49,7 +49,7 @@ Steps on how sample was created from scratch
   your `package.json` indicating that `deployr` is a runtime dependency on the
   `hello-world` project.
 
-- Build your `hello-world` project/app by editing `index.js`:
+- Create the `hello-world` project/app by editing `index.js`:
 
 
 ```js
