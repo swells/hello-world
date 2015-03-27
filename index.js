@@ -60,7 +60,6 @@ console.log('Executing the repository-managed R script ' +
 // ============================================================================
 // Set the DeployR server endpoint URL
 // ============================================================================
-
 deployr.configure({ host: 'http;//localhost:7300', logging: false });
 
 //

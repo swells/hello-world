@@ -9,7 +9,7 @@ of '10' named 'input_randNum'.
 Install
 =======
 
-1. `$git clone `
+1. `$git clone https://github.com/swells/hello-world.git`
 
 2. `$ cd hello-world`
 
@@ -43,7 +43,7 @@ Steps on how sample was create from scratch
   this file by hand later as well. One of the questions asked is what your
   _main_ should be called. I choose `index.js` and it was created for us.
 
-- ```$ npm install deployr --save```
+- ```$ npm install deployr -save```
 
   This will pull in `deployr` as a dependency and the `--save` with update
   your `package.json` indicating that `deployr` is a runtime dependency on the

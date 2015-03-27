@@ -2,6 +2,7 @@
   "name": "hello-world",
   "version": "1.0.0",
   "description": "Hello World Example",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +11,8 @@
     "tutorial"
   ],
   "author": "Sean Wells <sean.wells.sc@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "deployr": "^7.3.0"
+  }
 }
